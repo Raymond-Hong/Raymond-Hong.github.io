@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{249:function(t,n,o){"use strict";o.r(n);var s={data:()=>({}),methods:{goBack(){this.$router.go(-1)}}},c=o(14),i=Object(c.a)(s,(function(){var t=this._self._c;return t("div",[this._v("\n    error\n    "),t("button",{on:{click:this.goBack}},[this._v("Go back")])])}),[],!1,null,null,null);n.default=i.exports}}]);
