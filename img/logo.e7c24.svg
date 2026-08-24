@@ -1,0 +1,13 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- paper -->
+  <rect width="512" height="512" fill="#f7f8fa"/>
+  <!-- outer ripples, faint -->
+  <circle cx="256" cy="286" r="186" fill="none" stroke="#d7deea" stroke-width="16"/>
+  <circle cx="256" cy="286" r="146" fill="none" stroke="#c3cfE2" stroke-width="14"/>
+  <!-- ink drop -->
+  <path d="M256 84 C 290 148, 346 198, 346 282 A 90 90 0 1 1 166 282 C 166 198, 222 148, 256 84 Z" fill="#1c3564"/>
+  <!-- inner ripple rings inside the drop -->
+  <circle cx="256" cy="288" r="58" fill="none" stroke="#3a5c96" stroke-width="11"/>
+  <circle cx="256" cy="288" r="30" fill="none" stroke="#5a7ab0" stroke-width="9"/>
+  <circle cx="256" cy="288" r="10" fill="#7d9cc8"/>
+</svg>
